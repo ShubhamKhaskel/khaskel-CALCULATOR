@@ -1,0 +1,33 @@
+.container
+{
+    text-align: center;
+    margin-top: 50px;
+}
+table{
+    margin: auto;
+}
+input{
+    font-size: 20px;
+    font-style:italic;
+    text-align: center;
+    border: 2px;
+    border-color: black;
+    border-radius: 9px;
+    margin-bottom: 5px;
+    height: 50px;
+}
+button
+{
+    font-size: 20px;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 1px;
+    background-color: rgb(211, 227, 227);
+    width: 50px;
+    border-radius: 9px;
+    
+}
+button:hover
+{
+   background-color: aquamarine; 
+}
